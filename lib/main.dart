@@ -223,7 +223,7 @@ class IdentityCardScreen extends StatelessWidget {
                                 const SizedBox(width: 15),
                                 const Expanded(
                                   child: Text(
-                                    'bhrwrrhsyn@gmail.com',
+                                    'ALhussein Mohammed.com',
                                     style: TextStyle(
                                       fontSize: 15,
                                       color: Colors.white,
