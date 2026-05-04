@@ -1,7 +1,7 @@
 # 📱 مشروع بطاقة الهوية الرقمية (emam1)
 
 <div align="center">
-  <img src="screenshot_identity.png" width="300" alt="بطاقة الهوية">
+  <img src="images/screenshot_identity.png" width="300" alt="بطاقة الهوية">
   <br>
   <em>🪪 واجهة بطاقة الهوية الرقمية</em>
 </div>
