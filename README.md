@@ -173,12 +173,15 @@
 ---
 
 ## 📁 هيكل المشروع
+
+```
 emam1/
 ├── lib/
-│ └── main.dart
+│   └── main.dart
 ├── images/
-│ └── screenshot_identity.png ← صورتك هنا
+│   └── screenshot_identity.png
 └── pubspec.yaml
+```
 
 
 
