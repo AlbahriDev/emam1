@@ -156,7 +156,7 @@
 ## 🖼️ صورة المشروع
 
 <div align="center">
-  <img src="screenshot_identity.png" width="350" alt="واجهة بطاقة الهوية">
+  <img src="images/screenshot_identity.png" width="350" alt="واجهة بطاقة الهوية">
   <br>
   <em>🪪 الشاشة الرئيسية لتطبيق بطاقة الهوية</em>
 </div>
